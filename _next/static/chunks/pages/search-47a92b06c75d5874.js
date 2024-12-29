@@ -344,7 +344,7 @@
         {
           title: "Staking",
           text: "Stake tokens, earn more TAI.",
-          button: { text: "More details ->", link: "https://app-traix.vercel.app/" },
+          button: { text: "More details ->", link: "https://app.traix.dev" },
           imageMain: U.Z,
           imageGray: R.Z,
           video: "/videos/staking.webm",

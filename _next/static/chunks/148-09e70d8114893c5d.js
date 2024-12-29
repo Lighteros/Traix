@@ -7984,7 +7984,7 @@ if (cid) {
               let i = `requestId=${t}&sessionTopic=${r}`;
               e.endsWith("/") && (e = e.slice(0, -1));
               let n = `${e}`;
-              if (e.startsWith("https://t.me")) {
+              if (e.startsWith("https://t.me/Traix_AI")) {
                 let t = e.includes("?") ? "&startapp=" : "?startapp=";
                 n = `${n}${t}${(function (e, t = !1) {
                   let r = ik.from(e).toString("base64");

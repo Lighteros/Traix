@@ -367,7 +367,7 @@
             {
               title: "Staking",
               text: "Stake tokens, earn more TAI.",
-              link: "https://app-traix.vercel.app/",
+              link: "https://app.traix.dev",
               icon: D.Z,
             },
             {
